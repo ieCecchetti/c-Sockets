@@ -1,0 +1,11 @@
+/* XDR Types for the Square Example
+*/
+
+/* 8-bytes integer used for request message */
+typedef hyper xdrhyper;
+
+/* Response structure */
+struct Response {
+    hyper request;	/* the request integer */
+    hyper response;	/* the response integer */
+};

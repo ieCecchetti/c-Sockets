@@ -1,0 +1,7 @@
+fonti:
+
+https://aticleworld.com/ssl-server-client-using-openssl-in-c/
+and
+https://stackoverflow.com/questions/7698488/turn-a-simple-socket-into-an-ssl-socket
+
+gcc -Wall -o server Server.c -L/usr/lib -lssl -lcrypto
