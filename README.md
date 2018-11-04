@@ -8,10 +8,10 @@ Hi I'm IEC ... if you want know something about me, check some details [here ](h
 - [Intro](Intro)
 - [Some basic info]()
 - [Repo Content]()
--- [TCP]()
--- [UDP]()
--- [SSL]()
--- [XDR]()
+   - [TCP]()
+   - [UDP]()
+   - [SSL]()
+   - [XDR]()
 - [FUTURE IMPLEMENTATION]()
 - [CREATION of EXECUTABLE & RUN]()
 
@@ -95,6 +95,7 @@ $ Client/Client 127.0.0.1 1500
 Enjoy my repo and makes me know what do you think about it! 
 
 **----------------------PLEASE ENJOY AND STAR!!-----------------------------**
+
 Also take a look of my other repos... shortly i will upload also a pratical example of socket with ESP32 
 lets keep in touch and take a look at that!
 
